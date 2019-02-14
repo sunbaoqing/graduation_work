@@ -3,4 +3,39 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="background">#f5f4f3</color>
+
+    <!-- _________________________________________________________________ -->
+    <!-- old -->
+    <color name="loginbg">#232f3d</color>
+    <color name="hintcolor">#c3c3c3</color>
+    <color name="textcolor">#8D8B8B</color>
+    <color name="loginbtn_blue">#3483d0</color>
+    <color name="loginbtn_red">#cd4a00</color>
+    <color name="bg_bule">#3483d0</color>
+    <color name="deep_bule">#1d69ba</color>
+    <color name="bg_bule_click">#bad0e8</color>
+    <color name="text_bule">#4380b7</color>
+    <color name="text_deep">#9e9e9e</color>
+
+    <color name="line_left_color">#719ac6</color>
+    <color name="left_click_color_bg">#edebf6</color>
+    <color name="coupon_bottom_bg">#f2f1f7</color>
+    <color name="coupon_btn_click">#ffdddddd</color>
+    <color name="coupon_btn_text">#ff7c848f</color>
+    <color name="coupon_btn_text_click">#ffdddddd</color>
+    <color name="coupon_scan_bg">#ffdcd8ee</color>
+    <color name="coupon_btn">#fff6f5fb</color>
+    <color name="coupon_btn1">#ffedebf8</color>
+    <color name="pageback_yellow">#fff2c141</color>
+    <color name="yellow_fail">#ffff4903</color>
+    <color name="yellow_fail_click">#ffffc8b4</color>
+    <color name="transcation_top_text">#ff91949e</color>
+    <color name="yellow_bg">#fff2c141</color>
+    <color name="detail_pageback">#fff8f8f8</color>
+    <color name="green_text">#ff52b337</color>
+    <color name="sign_out_btn_cancle">#ffcccccc</color>
+    <!-- _________________________________________________________________ -->
+
 </resources>

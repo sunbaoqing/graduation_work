@@ -4,7 +4,39 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".LeadActivity">
+    android:background="@color/loginbg"
+    android:orientation="vertical"
+    android:padding="@dimen/dim36">
 
+
+    <TextView
+        android:id="@+id/tv_test"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dim60"
+        android:text="这是个测试"
+        android:textColor="@color/background"
+        android:textSize="@dimen/txt35" />
+
+    <EditText
+        android:id="@+id/ed_test"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dim60"
+        android:hint="这是个测试"
+        android:textColor="@color/background"
+        android:textColorHint="@color/background"
+        android:textSize="@dimen/txt35" />
+
+    <Button
+        android:id="@+id/btn_test"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dim60"
+        android:background="@color/background"
+        android:gravity="center"
+        android:onClick="BtnClick"
+        android:text="这是个测试"
+        android:textSize="@dimen/txt35" />
 
 </LinearLayout>
