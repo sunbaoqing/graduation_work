@@ -32,8 +32,8 @@ public class LeadActivity extends BaseActivity {
         textView.setText("111");
     }
 
-    @Event({
-            R.id.tv_test})
+
+    @Event({R.id.tv_test})
     private void testClick(View view) {
         switch (view.getId()) {
             case R.id.btn_test:
