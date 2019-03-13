@@ -4,28 +4,42 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
 
-    <color name="background">#f5f4f3</color>
+    <color name="white">#ffffff</color>
+    <color name="white1">#00ffffff</color>
+    <color name="black">#ff000000</color>
 
-    <!-- _________________________________________________________________ -->
-    <!-- old -->
-    <color name="loginbg">#232f3d</color>
+    <color name="loginbg">#0c2e31</color>
     <color name="hintcolor">#c3c3c3</color>
-    <color name="textcolor">#8D8B8B</color>
-    <color name="loginbtn_blue">#3483d0</color>
-    <color name="loginbtn_red">#cd4a00</color>
-    <color name="bg_bule">#3483d0</color>
+    <color name="textcolor">#bbbbbb</color>
+    <color name="textcolor1">#111111</color>
+    <color name="textcolor2">#222222</color>
+    <color name="textcolor3">#333333</color>
+    <color name="textcolor4">#444444</color>
+    <color name="textcolor5">#555555</color>
+    <color name="textcolor6">#666666</color>
+    <color name="textcolor7">#777777</color>
+    <color name="textcolor8">#888888</color>
+    <color name="textcolor9">#999999</color>
+    <color name="textcolor10">#aaaaaa</color>
+    <color name="textcolor11">#bbbbbb</color>
+    <color name="textcolor12">#cccccc</color>
+    <color name="textcolor13">#dddddd</color>
+    <color name="textcolor14">#eeeeee</color>
+    <color name="loginbtn_blue">#007f89</color>
+    <color name="loginbtn_red">#f15b00</color>
+    <color name="bg_bule">#007f89</color>
     <color name="deep_bule">#1d69ba</color>
-    <color name="bg_bule_click">#bad0e8</color>
+    <color name="bg_bule_click">#0cd3e3</color>
     <color name="text_bule">#4380b7</color>
     <color name="text_deep">#9e9e9e</color>
 
     <color name="line_left_color">#719ac6</color>
-    <color name="left_click_color_bg">#edebf6</color>
-    <color name="coupon_bottom_bg">#f2f1f7</color>
+    <color name="left_click_color_bg">#f2f6f6</color>
+    <color name="coupon_bottom_bg">#e9e9ef</color>
     <color name="coupon_btn_click">#ffdddddd</color>
-    <color name="coupon_btn_text">#ff7c848f</color>
-    <color name="coupon_btn_text_click">#ffdddddd</color>
-    <color name="coupon_scan_bg">#ffdcd8ee</color>
+    <color name="coupon_btn_text">#ff5b7173</color>
+    <color name="coupon_btn_text_click">#ff5b7173</color>
+    <color name="coupon_scan_bg">#ebeaf2</color>
     <color name="coupon_btn">#fff6f5fb</color>
     <color name="coupon_btn1">#ffedebf8</color>
     <color name="pageback_yellow">#fff2c141</color>
@@ -34,8 +48,12 @@
     <color name="transcation_top_text">#ff91949e</color>
     <color name="yellow_bg">#fff2c141</color>
     <color name="detail_pageback">#fff8f8f8</color>
-    <color name="green_text">#ff52b337</color>
+    <color name="green_text">#ff35b12c</color>
     <color name="sign_out_btn_cancle">#ffcccccc</color>
-    <!-- _________________________________________________________________ -->
+    <color name="tran_bg">#f5f5f5</color>
+    <color name="search_dialog_bg">#f1f2f2</color>
 
+    <color name="warning_color">#f4511e</color>
+    <color name="hint_color">#42000000</color>
+    <color name="success_color">#009688</color>
 </resources>

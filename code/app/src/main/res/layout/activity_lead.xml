@@ -1,42 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/loginbg"
-    android:orientation="vertical"
-    android:padding="@dimen/dim36">
+    android:orientation="vertical">
 
-
-    <TextView
-        android:id="@+id/tv_test"
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="@dimen/dim60"
-        android:text="这是个测试"
-        android:textColor="@color/background"
-        android:textSize="@dimen/txt35" />
-
-    <EditText
-        android:id="@+id/ed_test"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="@dimen/dim60"
-        android:hint="这是个测试"
-        android:textColor="@color/background"
-        android:textColorHint="@color/background"
-        android:textSize="@dimen/txt35" />
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:elevation="4dp"
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
 
     <Button
-        android:id="@+id/btn_test"
+        android:id="@+id/btn_showdialog"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="@dimen/dim60"
-        android:background="@color/background"
+        android:layout_margin="@dimen/dim15"
+        android:background="@color/white"
         android:gravity="center"
         android:onClick="BtnClick"
-        android:text="这是个测试"
+        android:text="验证指纹"
         android:textSize="@dimen/txt35" />
 
 </LinearLayout>
