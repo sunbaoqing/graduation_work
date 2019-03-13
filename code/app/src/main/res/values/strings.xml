@@ -1,18 +1,19 @@
 <resources>
     <string name="app_name">U Diary</string>
 
-    <string name="fingerprint_not_recognized">Fingerprint not recognized. Try again</string>
-    <string name="fingerprint_success">Fingerprint recognized</string>
-    <string name="fingerprint_hint">Touch sensor</string>
-    <string name="password_description">Enter your store password to continue</string>
-    <string name="new_fingerprint_enrolled_description">A new fingerprint was added to this device, so your password is required.</string>
-    <string name="password">Password</string>
-    <string name="use_fingerprint_in_future">Use fingerprint in the future</string>
-    <string name="fingerprint_description">Confirm fingerprint to continue</string>
-    <string name="description_fingerprint_icon">Fingerprint icon</string>
-    <string name="sign_in">Sign in</string>
     <string name="use_fingerprint_to_authenticate_key">use_fingerprint_to_authenticate_key</string>
-    <string name="cancel">Cancel</string>
-    <string name="use_password">Use password</string>
+
+    <string name="fingerprint_not_recognized">无法识别指纹。再试一次</string>
+    <string name="fingerprint_success">识别指纹成功</string>
+    <string name="fingerprint_hint">触觉传感器</string>
+    <string name="password_description">输入Ping码以继续</string>
+    <string name="new_fingerprint_enrolled_description">已将新的指纹添加到此设备，因此需要您的Ping码。</string>
+    <string name="password">密码</string>
+    <string name="use_fingerprint_in_future">将来使用指纹</string>
+    <string name="fingerprint_description">确认指纹以继续</string>
+    <string name="description_fingerprint_icon">指纹图标</string>
+    <string name="sign_in">登录</string>
+    <string name="cancel">取消</string>
+    <string name="use_password">Ping码</string>
     <string name="ok">OK</string>
 </resources>
